@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MyHobbies0
+- 👋 Hi, I’m Md irshad alam
 - 👀 I’m interested in ... Exploring new technologies and reading books
 - 🌱 I’m currently learning ...full stack web development 
 - 💞️ I’m looking to collaborate on ...
