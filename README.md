@@ -5,7 +5,7 @@
        <a href="https://www.linkedin.com/in/md-irshad-alam-761b491b9/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
        </a>
-       <a href="www.facebook.com/zayan.raj.311">
+       <a href="https://www.facebook.com/zayan.raj.311">
          <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
        </a>
        <a href="your-twitter-URL">
