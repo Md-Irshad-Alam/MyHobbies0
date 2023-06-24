@@ -21,7 +21,13 @@
   </div>
 
 # 💫 About Me:
- 👋 Hi, Everyone, I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> from jharkhand .<br>, I have completed my bachelor's degree in physics, in 2022. Apart from this, I have Strong problem-solving skills and the ability to quickly learn new technologies like JavaScript, React Js, Node Js, Redux, and MongoDB. Seeking an opportunity to work in a dynamic and collaborative team where I can leverage my skills <br>and gain further experience in full-stack web development
+ 👋 Hi,  I am Irshad Alam from Jharkhand  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> </br>
+      I completed my bachelor's degree in Physics during 2019-22. 
+      I have been always interested in technology and always curious to know, actually how it works so, with this interest.
+      I completed relevant coursework in front-end technologies such as HTML, CSS, JavaScript, and frameworks like React and Angular, as well as back-end 
+      technologies like Node.js and databases such as MySQL and MongoDB. Hands-on experience building web applications as part of academic projects, with a focus           on 
+      responsive design and user experience. Strong problem-solving skills and ability to learn new technologies quickly. Seeking an opportunity to work in a               dynamic
+      and collaborative team where I can leverage my skills and gain further experience in full-stack web development."
 - 📫 How to reach me ...almairsh0743@gmail.com
 - My Portfolio - https://myhobbies0.github.io/
   
